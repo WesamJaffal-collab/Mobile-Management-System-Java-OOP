@@ -31,6 +31,8 @@ This project was developed as part of a university Object-Oriented Programming (
     ├── Phone.java
     ├── Smartphone.java
     └── Project.java // application entry point
+
+
 📘 Example Functionalities
 Create a new smartphone instance:
 
@@ -43,6 +45,8 @@ Java
 if (phone.getPrice() <= budget) {
     System.out.println("Phone: " + phone.getModel() + ", Total Price: " + phone.getTotalPrice());
 }
+
+
 ▶️ How to Run the Project
 Open the project in NetBeans, IntelliJ, or any Java IDE.
 
