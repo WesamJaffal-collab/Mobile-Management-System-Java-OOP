@@ -48,10 +48,7 @@ if (phone.getPrice() <= budget) {
 
 
 ▶️ How to Run the Project
-Open the project in NetBeans, IntelliJ, or any Java IDE.
-
-Ensure the JDK is installed (JDK 8+ recommended).
-
-Run the Project.java file.
-
-The application will prompt you to enter smartphone details and filter them based on your budget.
+1.Open the project in NetBeans, IntelliJ, or any Java IDE.
+2.Ensure the JDK is installed (JDK 8+ recommended).
+3.Run the Project.java file.
+4.The application will prompt you to enter smartphone details and filter them based on your budget.
